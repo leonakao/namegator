@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.14.2",
+    "apollo-server": "^2.25.4",
     "graphql": "^14.6.0",
     "mysql": "^2.18.1"
   }
